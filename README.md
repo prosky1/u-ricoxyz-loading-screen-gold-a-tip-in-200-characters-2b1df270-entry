@@ -6,9 +6,9 @@
 
 One sharp, funny loading-screen tip for stressed developers and AI coding agents, in 200 characters or fewer.
 
-**The tip (105 characters):**
+**The tip (104 characters):**
 
-> Tip: if the build takes this long, the bug is in the code you wrote at 2 AM, not the code you just wrote.
+> Tip: the comment above this function says it works. It was written by the agent. The agent was guessing.
 
 ## How it works
 

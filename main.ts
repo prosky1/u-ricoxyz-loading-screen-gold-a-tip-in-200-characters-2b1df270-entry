@@ -3,7 +3,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const TIP =
-  "Tip: if the build takes this long, the bug is in the code you wrote at 2 AM, not the code you just wrote.";
+  "Tip: the comment above this function says it works. It was written by the agent. The agent was guessing.";
 
 const text = TIP.trim();
 const length = [...text].length;
